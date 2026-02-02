@@ -1,0 +1,43 @@
+#                               #
+#   AutoSmelt_LTS by: tweedjt   #
+#                               #
+
+#Is AutoSmelt toggled on by default
+auto_smelt: false
+
+#Are Drops to Inventory on by default
+auto_pickup: true
+
+#Is the /smelt Pickaxe unbreakable?
+pick_damage: false
+
+#Drop exp orbs?
+exp_drops: true
+
+#Enable Fortune Drops for Fortune Pick?
+fortune_drops: true
+
+#Are random drops enabled?
+random_drop_amount: false
+
+#Set value of drop amount if "random_drop_amount = true"
+min_drop_amount: 1
+max_drop_amount: 4
+
+#Set the experience orb value for Iron
+iron_exp: 1
+
+#Set the experience orb value for Gold
+gold_exp: 1
+
+#Set the experience orb value for Netherite Scrap
+nether_scrap_exp: 2
+
+#On message for /as command
+autosmelt_on_message: "AutoSmelt has been turned &aON"
+
+#Off message for /as command
+autosmelt_off_message: "AutoSmelt has been turned &fOFF"
+
+#Message prefix for plugin
+message_prefix: "&d[&fAutoSmelt&d] &r"

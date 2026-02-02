@@ -1,0 +1,18 @@
+name: AutoSmelt_LTS
+author: tweedjt
+version: 2.0.0
+api-version: '1.21'
+main: me.tweedjt.autosmelt.AutoSmelt
+commands:
+  AutoSmelt:
+    description: Toggles Smelting
+    usage: /<command>
+    aliases: [as, autosmelt]
+  Smelt:
+    description: Spawns SmeltPick
+    usage: /<command>
+    aliases: [smelt]
+  ASReload:
+    description: Reloads Config
+    usage: /<command>
+    aliases: [asreload]

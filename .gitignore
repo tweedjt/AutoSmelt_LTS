@@ -1,0 +1,15 @@
+# IDE
+.idea/
+*.iml
+
+# Build output
+target/
+*.jar
+
+# OS
+.DS_Store
+Thumbs.db
+
+# JDK (accidentally included)
+openJdk-25/
+**/openJdk-25/
