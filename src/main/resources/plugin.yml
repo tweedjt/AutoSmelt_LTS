@@ -1,7 +1,7 @@
 name: AutoSmelt_LTS
 author: tweedjt
-version: 2.0.0
-api-version: '1.21'
+version: 1.0.0
+api-version: '1.17'
 main: me.tweedjt.autosmelt.AutoSmelt
 commands:
   AutoSmelt:
